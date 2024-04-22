@@ -7,7 +7,6 @@
 
 ### Lenguajes de Programación 🌐
 
-#### Conocimiento
 
 | Python | .NET | HTML | C# | Django | JavaScript |
 |:------:|:----:|:----:|:--:|:------:|:----------:|
@@ -15,7 +14,6 @@
 
 ### Bases de Datos 🛢️
 
-#### Conocimiento
 
 | SQL Server | MySQL | PostgreSQL |
 |:----------:|:-----:|:---------:|
